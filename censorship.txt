@@ -14,3 +14,6 @@ surveillance
 OONI
 Open Observatory of Network Interference
 Tor
+internet blackout
+social media blocking
+internet shutdown
