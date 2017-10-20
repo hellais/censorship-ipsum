@@ -17,3 +17,4 @@ Tor
 internet blackout
 social media blocking
 internet shutdown
+Global South
